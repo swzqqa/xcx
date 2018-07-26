@@ -1,0 +1,178 @@
+body,p,td,th,div {
+    font: 12px "Microsoft YaHei",arial,SimSun,"宋体";
+  line-height:130%;
+}
+
+body,p,td,th,div {  
+  color: #192E32;
+}
+#content{margin-top: 4%;}
+html {
+  overflow-y:scroll;
+}
+body{  background: #;}
+body,ul{
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
+}
+
+p{line-height:2;
+  font-size:12px;
+  color:#555;
+  text-align:left;
+  margin:0px;
+}
+h2{ margin:0px;}
+h4 {
+ 
+  color:#333;
+  margin:15px 0 5px 0;
+  font-size:14px;
+}
+.kzs{   border-radius:4px; -webkit-box-shadow: 0px 1px 12px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 12px 0px rgba(0, 0, 0, 0.2);}
+h4 {
+  font-size:12px;
+}
+.passmail-title {background:#3b8cff;
+    color: #fff;
+    height: 76px;
+    line-height: 76px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: normal;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.comment {
+  color: #888;
+}
+#tbs{ margin:4em auto;width:232px;}
+#tbs li{padding:5px 15px;background:#eee; border:1px solid #999; width:200px;list-style-type:none}
+#setting h3,#checking h3 {
+  background:#f5f5f5;
+  margin:1px;
+  padding:5px 15px;
+  color: #666; border-radius:3px;  
+  text-align: left;
+}
+
+#logos {
+  margin:0 auto;
+  background:#41a5e1;
+}
+
+#logos-inside {
+  width:1000px;
+  text-align:left;
+  margin:0 auto;
+}
+
+#lang-menu {
+  margin:0 0 20px 0;
+  background:#f5f5f5;
+  color:#333;
+  border-bottom:1px solid #bbdde5;
+}
+
+#lang-menu-inside {
+  line-height:50px;
+  color:#515151;
+  text-align:right;
+  display: block;
+  padding-right:100px;
+}
+#lang-menu-inside label{
+  vertical-align:middle;
+}
+#lang-menu-inside input{
+  vertical-align:middle;
+  margin:0;
+}
+
+#wrapper { padding:20px;
+  width:750px;
+}
+
+#copyright {position:absolute; bottom:3em;right:3em
+}
+
+#copyright-inside {
+  margin:auto;
+  text-align:center;
+}
+
+#install-btn {
+  margin-top: 1em;
+}
+
+input.button {
+ padding:8px;
+background:#fff;
+  border: 1px solid #eee;
+ margin-left: 21px;
+}
+
+th {
+  font:12px 宋体, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+form {
+  margin: 0px;
+  padding: 0px;
+}
+#wks{float: right; margin-top: 21px;}
+input, textarea, select {
+  font:12px 宋体, Arial, Helvetica, sans-serif;
+}
+
+input.p, label {
+  cursor:pointer;
+}
+a:visited {
+  color: #335B64;
+  text-decoration: none;
+}
+
+a:link {
+  color: #335B64;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EB8A3D;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #EB8A3D;
+  text-decoration: underline;
+}
+
+.850 {
+  width: 850px;
+}
+
+.list {
+  text-align: left;
+  margin:10px;
+}
+
+.clear {
+  clear: both;
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  display:block;
+}
+.Contact{ width:198px; height:92px; background:url(../images/telbg.gif) no-repeat; margin-left:10px; margin-top:15px;}
+.Contact h2{ color:#0e6578; line-height:20px; padding-left:10px; font-size:12px; text-align:left; padding-top:10px;*padding-top:2px;}
+.Contact a,.Contact a:visited{ color:#f86e09; font-weight:normal; text-decoration:underline;}
+.Contact .TelS{ color:#000; position:relative; font-weight:normal; font-size:12px; text-align:left; padding-left:10px; margin-top:8px;}
+.Contact .TelS span a{position:absolute; right:8px; top:-10px;background:url(../images/QQT.gif) no-repeat; width:32px; height:31px; overflow:hidden; text-indent:-9999px;}
+.InstallationAD{ width:196px; margin:10px 0 0 10px;}
+.InstallationAD img{ border:1px solid #d6d6d6;}
+.OnLine{ height:38px; line-height:38px;}
+.OnLine a,.OnLine a:visited{ color:#FF0000; text-decoration:underline;cursor:pointer;}
